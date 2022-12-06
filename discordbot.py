@@ -1,5 +1,5 @@
 
-# This example requires the 'message_content' intent.
+# Here be dragons!
 
 import discord
 from discord.ext import commands
